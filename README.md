@@ -1,3 +1,11 @@
+
+# PhoneParserTg
+It allows you to get all telephone numbers (if any are open) from telegram groups users, and save it to CSV file
+
+
+
+### Installation and usage
+
 1. Download and install python 3 
 
 [download python 3](https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe)
