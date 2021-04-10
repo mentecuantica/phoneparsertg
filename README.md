@@ -3,7 +3,7 @@
 [download python 3](https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe)
 
 2. Download 
-[phoneparsertg](https://github.com/mentecuantica/phoneparsertg/archive/refs/heads/main.zip)
+[phoneparsertg](https://github.com/mentecuantica/phoneparsertg/archive/refs/heads/main.zip), and extract it to `C:\phoneparsertg`
 
 2. Win+X - Windows Powershell
 `Goto extracted folder phoneparsetg`
