@@ -11,8 +11,14 @@
 3. run `pip install -r requirements.txt`
 
 4. Create config.ini file with the following contents from 
+enter your phone number
+you will recieve the code
+enter this code
+and afterwards create an application (it can be Android app, can be Desktop app - doesn't matter)
+you will recieve 'api_id` and 'api_hash' values those need to be in config.ini, and the last value in config.ini is your TELEGRAM `username`
 [mytgauth][https://my.telegram.org/auth]
 
+### example of config.ini
 ```[main]
 api_id = 3719444
 api_hash = "7401507f43992e80d3e4fd400c1e4444"
