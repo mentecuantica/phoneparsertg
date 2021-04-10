@@ -10,3 +10,10 @@
 
 3. run `pip install -r requirements.txt`
 
+4. Create config.ini file with the following contents from 
+[mytgauth][https://my.telegram.org/auth]
+
+```[main]
+api_id = 3719444
+api_hash = "7401507f43992e80d3e4fd400c1e4444"
+username = @yourusername```
