@@ -27,7 +27,8 @@ you will recieve `api_id` and `api_hash` values those need to be in config.ini, 
 [mytgauth][https://my.telegram.org/auth]
 
 ### example of config.ini
-```[main]
+```
+[main]
 api_id = 3719444
 api_hash = "7401507f43992e80d3e4fd400c1e4444"
 username = @yourusername
